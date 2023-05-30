@@ -11,5 +11,5 @@ My name is Yuri Sergeev. I'm DevOps Engineer and I'm 39yo.
 - 📫 How to reach me: email: randomtoy@gmail.com or telegram: [@anyotherguy](https://t.me/anyotherguy)
 
 
-- 😄 Fun fact: I have e achievements in **Dark Souls 1-2-3**, **Sekiro**, **Elden Ring** and **Bloodborne**. As you can see I'm enthusiastic person 🤣
+- 😄 Fun fact: I have all achievements in **Dark Souls 1-2-3**, **Sekiro**, **Elden Ring** and **Bloodborne**. As you can see I'm enthusiastic person 🤣
 
