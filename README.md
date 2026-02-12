@@ -1,15 +1,37 @@
-### Hi there 👋
+# Yuri Sergeev
 
+SRE / Infrastructure Engineer  
+Kubernetes • Virtualization • Cloud • Automation • Go
 
-My name is Yuri Sergeev. I'm DevOps Engineer and I'm 39yo.
+---
 
-- 🌱 I’m currently learning Golang and Powershell.
-- 🔭 I'm working with **XenServer, Hyper-V, Kubernetes, Docker, Helm** and a lot of other things. I'm good at **Linux** and **Windows Server** OS. Different **Mikrotik** and **Cisco** hardwares are included in my knowledge :)
+I work on infrastructure, virtualization and cloud automation.
 
-- 💬 My hobbies are boxing🥊, motorcycles🏍️and video games 🎮
-- ⚡ I know Russian and English, right now I'm learning Chinese
-- 📫 How to reach me: email: randomtoy@gmail.com or telegram: [@anyotherguy](https://t.me/anyotherguy)
+Background includes traditional system administration, large-scale networking, virtualization platforms and cloud-native environments.
 
+---
 
-- 😄 Fun fact: I have all achievements in **Dark Souls 1-2-3**, **Sekiro**, **Elden Ring** and **Bloodborne**. As you can see I'm enthusiastic person 🤣
+## Infrastructure Domains
 
+Kubernetes (managed & self-hosted)  
+Terraform-based infrastructure  
+VM image pipelines (Packer)  
+Linux & Windows environments  
+Virtualization: KVM, XenServer, Hyper-V, vGPU  
+Monitoring: Prometheus, Grafana, Alertmanager, Loki  
+CI/CD: GitHub Actions, Skaffold, Helm  
+
+---
+
+## Current Stack
+
+Terraform  
+Packer  
+SaltStack  
+Yandex Cloud  
+Go  
+Docker  
+
+---
+
+Open to relocation and international roles.
