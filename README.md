@@ -1,37 +1,17 @@
 # Yuri Sergeev
 
-SRE / Infrastructure Engineer  
-Kubernetes • Virtualization • Cloud • Automation • Go
+Site Reliability Engineer
 
----
+Kubernetes · Terraform · Virtualization · Cloud · Go
 
-I work on infrastructure, virtualization and cloud automation.
+I work on infrastructure automation and reliability across cloud and on-prem environments.
 
-Background includes traditional system administration, large-scale networking, virtualization platforms and cloud-native environments.
+Background includes system administration, networking, virtualization platforms and cloud-native systems.
 
----
+## Experience
 
-## Infrastructure Domains
+Infrastructure: Kubernetes (managed & self-hosted), Terraform, Packer, SaltStack  
+Systems & Virtualization: Linux, Windows, KVM, XenServer, Hyper-V, vGPU  
+Observability & CI/CD: Prometheus, Grafana, Loki, GitHub Actions, Helm, Docker  
 
-Kubernetes (managed & self-hosted)  
-Terraform-based infrastructure  
-VM image pipelines (Packer)  
-Linux & Windows environments  
-Virtualization: KVM, XenServer, Hyper-V, vGPU  
-Monitoring: Prometheus, Grafana, Alertmanager, Loki  
-CI/CD: GitHub Actions, Skaffold, Helm  
-
----
-
-## Current Stack
-
-Terraform  
-Packer  
-SaltStack  
-Yandex Cloud  
-Go  
-Docker  
-
----
-
-Open to relocation and international roles.
+Open to international opportunities.
